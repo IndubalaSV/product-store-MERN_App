@@ -1,0 +1,52 @@
+[
+  {
+    "name": "ipad",
+    "price": 1000,
+    "image": "https://www.apple.com/newsroom/images/product/ipad/standard/Apple_iPad_2021_10_14_21_hero.jpg.large.jpg"
+  },
+  {
+    "name": "iphone",
+    "price": 2000,
+    "image": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iPhone_13_Pro_Max_09142021_big.jpg.large.jpg"
+  },
+  {
+    "name": "macbook",
+    "price": 3000,
+    "image": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_MacBook_Pro_14_10_18_21_hero.jpg.large.jpg"
+  },
+  {
+    "name": "airpods",
+    "price": 4000,
+    "image": "https://www.apple.com/newsroom/images/product/airpods/standard/Apple_AirPods_3_10182021_big.jpg.large.jpg"
+  },
+  {
+    "name": "watch",
+    "price": 5000,
+    "image": "https://www.apple.com/newsroom/images/product/watch/standard/Apple_Watch_Series_7_09142021_big.jpg.large.jpg"
+  },
+  {
+    "name": "imac",
+    "price": 6000,
+    "image": "https://www.apple.com/newsroom/images/product/imac/standard/Apple_iMac_24_04202021_big.jpg.large.jpg"
+  },
+  {
+    "name": "homepod",
+    "price": 7000,
+    "image": "https://www.apple.com/newsroom/images/product/homepod/standard/Apple_HomePod_mini_11022020_big.jpg.large.jpg"
+  },
+  {
+    "name": "ipod",
+    "price": 8000,
+    "image": "https://www.apple.com/newsroom/images/product/ipod/standard/Apple_iPod_touch_05182021_big.jpg.large.jpg"
+  },
+  {
+    "name": "macmini",
+    "price": 9000,
+    "image": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_Mac_mini_11022020_big.jpg.large.jpg"
+  },
+  {
+    "name": "macpro",
+    "price": 10000,
+    "image": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_Mac_Pro_11022020_big.jpg.large.jpg"
+  }
+]
